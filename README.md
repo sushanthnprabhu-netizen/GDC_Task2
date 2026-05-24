@@ -90,6 +90,3 @@ The system focuses on replay consistency, cleaner architecture, and reliable pla
 
 ---
 
-# Unity Version
-
-Project developed using Unity 6 URP.
